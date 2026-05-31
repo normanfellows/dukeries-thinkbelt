@@ -197,6 +197,83 @@
       .wrap { padding-inline: 14px; }
       header, section.card, nav.card { border-radius: 18px; }
     }
+
+    .territory-section {
+  margin-top: 3rem;
+  padding-top: 1rem;
+}
+
+.territory-section__header h2 {
+  margin: 0 0 0.5rem 0;
+  font-size: clamp(1.5rem, 2vw, 2.1rem);
+  line-height: 1.1;
+}
+
+.territory-section__header p {
+  max-width: 70ch;
+  margin: 0 0 1.5rem 0;
+  color: #6c6259;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.territory-sequence {
+  display: grid;
+  gap: 1.25rem;
+}
+
+.territory-card {
+  background: #f7f1e8;
+  border: 1px solid #e2d6c8;
+  border-radius: 20px;
+  padding: 1rem;
+  box-shadow: 0 1px 0 rgba(0,0,0,0.03);
+}
+
+.territory-figure {
+  margin: 0;
+}
+
+.territory-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 14px;
+  border: 1px solid #ddd3c6;
+}
+
+.territory-figure figcaption {
+  margin-top: 0.75rem;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: #4d453f;
+}
+
+.territory-note {
+  margin: 0.75rem 0 0 0;
+  color: #5b5149;
+  line-height: 1.7;
+  max-width: 75ch;
+}
+
+@media (min-width: 900px) {
+  .territory-sequence {
+    gap: 1.5rem;
+  }
+
+  .territory-card {
+    display: grid;
+    grid-template-columns: minmax(320px, 1.2fr) minmax(260px, 0.8fr);
+    gap: 1.25rem;
+    align-items: start;
+  }
+
+  .territory-figure img {
+    max-height: 520px;
+    object-fit: contain;
+    background: #fff;
+  }
+}
   </style>
 </head>
 <body>
