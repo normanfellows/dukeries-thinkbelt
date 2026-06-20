@@ -6,7 +6,6 @@ An ongoing investigation into distributed educational infrastructure, post-indus
 
 [![DOI](https://zenodo.org/badge/1249898235.svg)](https://doi.org/10.5281/zenodo.20775761)
 
-
 ---
 
 ## Introduction
