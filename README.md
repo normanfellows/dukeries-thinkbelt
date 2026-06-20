@@ -1,12 +1,11 @@
 # dukeries-thinkbelt
 
-[![DOI](https://zenodo.org/badge/your_badge_id.svg)](https://doi.org/10.5281/zenodo.20775899)
-[![DOI](https://zenodo.org/badge/1249898235.svg)](https://doi.org/10.5281/zenodo.20775761)
-
-
 ## Dukeries Thinkbelt
 
 An ongoing investigation into distributed educational infrastructure, post-industrial territory, and anticipatory design in West Nottinghamshire.
+
+[![DOI](https://zenodo.org/badge/1249898235.svg)](https://doi.org/10.5281/zenodo.20775761)
+
 
 ---
 
