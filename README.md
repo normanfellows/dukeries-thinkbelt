@@ -1,6 +1,7 @@
 # dukeries-thinkbelt
 
 [![DOI](https://zenodo.org/badge/your_badge_id.svg)](https://doi.org/10.5281/zenodo.20775899)
+[![DOI](https://zenodo.org/badge/1249898235.svg)](https://doi.org/10.5281/zenodo.20775761)
 
 
 ## Dukeries Thinkbelt
