@@ -1,4 +1,4 @@
-# nf-dukeries-thinkbelt
+# dukeries-thinkbelt
 
 ## Dukeries Thinkbelt
 
