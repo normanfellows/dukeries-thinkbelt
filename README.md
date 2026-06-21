@@ -2,6 +2,8 @@
 
 This repository forms part of an evolving research catalogue investigating progressing architecture and the commons condition. It serves as a working archive, publication platform, and supporting framework for the author's broader thesis project.
 
+[Visit Norman Fellows Website](https://normanfellows.github.io)
+
 ## Dukeries Thinkbelt
 
 An ongoing investigation into distributed educational infrastructure, post-industrial territory, and anticipatory design in West Nottinghamshire.
